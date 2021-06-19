@@ -14,6 +14,17 @@ void framebuffer_size_callback(GLFWwindow* window, int width, int height)
 	glViewport(0, 0, width, height);
 }
 
+/**
+ * @brief      "GLFW's glfwGetKey function that takes the window as input together with a key. The function returns whether this key is currently being pressed."
+ *
+ * @param      window  The window
+ */
+void processInput(GLFWwindow *window)
+{
+    if(glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS)
+        glfwSetWindowShouldClose(window, true);
+}
+
 int LP_createWindow ()  {
 	glfwInit();
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
@@ -46,6 +57,19 @@ int LP_createWindow ()  {
 
 	while (!glfwWindowShouldClose(window))
 	{
+		// input
+		processInput(window);
+
+		
+		// rendering ...
+		
+		// As you may recall from the OpenGL chapter, the glClearColor function is a state-setting function and glClear 
+		// is a state-using function in that it uses the current state to retrieve the clearing color from.
+		glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
+		glClear(GL_COLOR_BUFFER_BIT);
+
+
+		// check and call events and swap the buffer
 		glfwSwapBuffers(window);
 		glfwPollEvents();
 	}
