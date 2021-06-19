@@ -1,0 +1,233 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: greeting"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 141.0,
+		"history":
+		[
+			"print (TM_CURRENT_WORD)",
+			"print ($TM_CURRENT_WORD)",
+			"print (${TM_CURRENT_WORD})",
+			"print (\"p\")",
+			"print \"p\"",
+			"print p",
+			"echo p"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL"
+	],
+	"file_history":
+	[
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/learnOpenGl.vcxproj",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/glad.c",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/main.cpp",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/externalInclude/GLFW/glfw3.h",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/learningPhases/lp-common.h",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/learningPhases/learning-phases.h",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/learningPhases/lp-common.cpp",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/learningPhases/main-create-window.cpp",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/learningPhases/main-hello-triangle.cpp",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/sublime/openspec.sh",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/sublime/learnOpenGl.sublime-project",
+		"/C/Users/rfran/AppData/Roaming/Sublime Text/Packages/User/greeting.sublime-snippet",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/include/glad/glad.h",
+		"/C/Users/rfran/source/repos/rfranr.github.com/learnOpenGL/learnOpenGl/main-crear-ventana.cpp",
+		"/C/Users/rfran/AppData/Local/Temp/Temp1_ipfilter.zip/ipfilter.dat",
+		"/C/Users/rfran/source/repos/tmp/AndroidTest3/AndroidTest3/AndroidTest3.Packaging/ARM/Debug/FileStringReplace.incremental",
+		"/C/Users/rfran/source/repos/ndk-samples-main/hello-jni/app/src/main/cpp/out/build/x64-Debug/build.ninja",
+		"/G/Mi unidad/uni/Programación/Android/readme_consolidado.txt",
+		"/C/Users/rfran/source/repos/ndk-samples-main/hello-jni/app/src/main/cpp/out/build/x64-Debug/.ninja_log"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"how many",
+			"glad_glGenFramebuffers",
+			"glad_debug_glGenBuffers",
+			"glad_debug_glGenBuffers(",
+			"glad_debug_glGenBuffers ",
+			"glad_debug_glGenBuffers",
+			"glGenBuffers ",
+			"glGenBuffers",
+			"glad_debug_glGenBuffers",
+			"glGenBuffers",
+			"main.cpp",
+			"framebuffer_size_callback"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 410.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learnOpenGl.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\rfran\\source\\repos\\rfranr.github.com\\learnOpenGL"
+		}
+	],
+    "build_systems":
+	[
+	    {
+	        "name": "msbuild",
+	        "cmd": ["c:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe", "$project_path\\..\\"]
+	    }
+	]
+}
