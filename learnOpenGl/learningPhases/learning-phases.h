@@ -1,5 +1,5 @@
-#ifndef __lp_h_
-#define __lp_h_
+#ifndef __lp_learning_phases_h_
+#define __lp_learning_phases_h_
 
 
 /**
@@ -8,6 +8,7 @@
  * @return     0
  */
 extern int LP_createWindow();
+extern int LP_helloTriangleLine();
 
 
 #endif

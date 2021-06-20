@@ -11,5 +11,6 @@
  * @return     a value
  */
 int main ()  {
-	return LP_createWindow();
+	//return LP_createWindow();
+	return LP_helloTriangleLine();
 }
