@@ -7,8 +7,8 @@
  *
  * @return     0
  */
-extern int LP_createWindow();
-extern int LP_helloTriangleLine();
+int LP_createWindow();
+int LP_helloTriangleLine();
 
 
 #endif
