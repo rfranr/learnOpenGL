@@ -107,6 +107,7 @@ int LP_helloTriangleLine ()  {
 		vertices2[1] = 0;
 		vertices2[2] = 0;
 
+
 		vertices2[3] = 0;
 		vertices2[4] = cos(rad);
 		vertices2[5] = -sin(rad);
@@ -146,6 +147,7 @@ int LP_helloTriangleLine ()  {
 
 
 		free(n);
+		glDisableVertexAttribArray(0);
 
 
 		// check and call events and swap the buffer
@@ -153,7 +155,6 @@ int LP_helloTriangleLine ()  {
 		glfwPollEvents();
 	}
 
-	glDisableVertexAttribArray(0);
 
 
 	return 0;
